@@ -1,0 +1,10 @@
+{
+  "name": "yeti-quest",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "~1.2.9",
+    "underscore": "~1.5.2",
+    "angular-route": "~1.2.14",
+    "normalize.css": "~3.0.0"
+  }
+}
